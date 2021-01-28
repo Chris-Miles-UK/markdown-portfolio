@@ -1,2 +1,3 @@
 # Chris Miles
-## Path to the Everlasting Typist
+## Learning how to use GitHub
+#### (At long last)
