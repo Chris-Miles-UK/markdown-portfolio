@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+This is not me!
+![Image of the character Chris Miles in Skins](https://i.ytimg.com/vi/GZD-UugYvJ4/hqdefault.jpg)
