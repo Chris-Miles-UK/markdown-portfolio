@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+A few favourite meals:
+* Bangers and Mash
+* Curry
+* Kebab
